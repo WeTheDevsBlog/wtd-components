@@ -1,1 +1,3 @@
-export * from './components';
+import './config/tailwind.css'
+
+export * from './components'
